@@ -5,7 +5,7 @@
 	<artifactId>myweb</artifactId>
 	<packaging>war</packaging>
 	<!-- Demo-->
-	<version>0.6.1-RELEASE</version>
+	<version>0.6.0-RELEASE</version>
 	<name>myweb Maven Webapp</name>
 	<url>http://maven.apache.org</url>
         <!-- Testing jenkins....-->
@@ -20,7 +20,7 @@
 		<dependency>
 		    <groupId>org.springframework</groupId>
 		    <artifactId>spring-core</artifactId>
-		    <version>4.3.8.RELEASE</version>
+		    <version>4.3.8.RELEASE<version>
 		</dependency>
 		<dependency>
 			<groupId>junit</groupId>
